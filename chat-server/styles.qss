@@ -1,0 +1,161 @@
+/* Общие стили для всего приложения */
+QWidget {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 10pt;
+}
+
+/* Стили для главного окна */
+QMainWindow, QDialog {
+    background-color: #1e1e1e;
+}
+
+/* Стили для QLabel */
+QLabel {
+    color: #ffffff;
+    font-weight: bold;
+    /* Добавление тени к тексту */
+    /* Примечание: Qt Style Sheets не поддерживают text-shadow, 
+       поэтому для теней к тексту потребуется использовать QGraphicsEffect в коде */
+}
+
+/* Стили для QLineEdit */
+QLineEdit {
+    background-color: #2d2d2d;
+    color: #ffffff;
+    padding: 5px;
+    border: 1px solid #3e3e3e;
+    border-radius: 5px;
+}
+
+/* Стили для QPushButton */
+QPushButton {
+    background-color: #2d2d2d;
+    color: #ffffff;
+    border: none;
+    padding: 8px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    /* Добавление тени к тексту не поддерживается в QSS */
+}
+
+QPushButton:hover {
+    background-color: #3e3e3e;
+}
+
+QPushButton:pressed {
+    background-color: #1c1c1c;
+}
+
+/* Стили для QTextEdit */
+QTextEdit {
+    background-color: #2d2d2d;
+    color: #ffffff;
+    padding: 5px;
+    border: 1px solid #3e3e3e;
+    border-radius: 5px;
+}
+
+/* Стили для QTableWidget */
+QTableWidget {
+    background-color: #2d2d2d;
+    color: #ffffff;
+    gridline-color: #3e3e3e;
+    border: 1px solid #3e3e3e;
+    selection-background-color: #3e3e3e;
+    selection-color: #ffffff;
+}
+
+QHeaderView::section {
+    background-color: #2d2d2d;
+    color: #ffffff;
+    padding: 4px;
+    border: 1px solid #3e3e3e;
+}
+
+/* Стили для QTabWidget и QTabBar */
+QTabWidget::pane {
+    border: 1px solid #3e3e3e;
+    background-color: #1e1e1e;
+}
+
+QTabBar::tab {
+    background-color: #2d2d2d;
+    color: #ffffff;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    min-width: 100px;
+    margin-right: 2px;
+}
+
+QTabBar::tab:selected {
+    background-color: #3e3e3e;
+    font-weight: bold;
+}
+
+QTabBar::tab:hover {
+    background-color: #4e4e4e;
+}
+
+QTabBar::tab:!selected {
+    margin-top: 2px;
+}
+
+/* Стили для QScrollBar */
+QScrollBar:vertical, QScrollBar:horizontal {
+    background-color: #2d2d2d;
+    width: 15px;
+    height: 15px;
+    margin: 15px 0 15px 0;
+}
+
+QScrollBar::handle:vertical, QScrollBar::handle:horizontal {
+    background-color: #5e5e5e;
+    min-height: 20px;
+    border-radius: 7px;
+}
+
+QScrollBar::handle:vertical:hover, QScrollBar::handle:horizontal:hover {
+    background-color: #6e6e6e;
+}
+
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical,
+QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal {
+    background-color: #3e3e3e;
+    height: 15px;
+    subcontrol-origin: margin;
+}
+
+QScrollBar::add-line:vertical:hover, QScrollBar::sub-line:vertical:hover,
+QScrollBar::add-line:horizontal:hover, QScrollBar::sub-line:horizontal:hover {
+    background-color: #4e4e4e;
+}
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical,
+QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal {
+    background: none;
+}
+
+/* Стили для QListWidget */
+QListWidget {
+    background-color: #2d2d2d;
+    color: #ffffff;
+    border: 1px solid #3e3e3e;
+}
+
+QListWidget::item:selected {
+    background-color: #3e3e3e;
+    color: #ffffff;
+}
+
+/* Стили для QToolTip */
+QToolTip {
+    background-color: #2d2d2d;
+    color: #ffffff;
+    border: 1px solid #3e3e3e;
+    padding: 5px;
+    border-radius: 5px;
+}
