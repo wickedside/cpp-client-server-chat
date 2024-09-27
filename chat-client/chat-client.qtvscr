@@ -1,0 +1,429 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2024-09-27 01:26:58",
+  "files": {
+    "C:\\Users\\awok3\\source\\repos\\chat-client\\chat-client\\chat-client.vcxproj": {
+      "before": "7VlLb+M2EN5zgf6CXgwhCycHW3bebWQtdu1sYNR5IM7jUmBBS2NbXUkUSCqbtNv/3pH4kOXI67jZJm2QHAKYnCGHH2e+maGsn968cd7dRmHtBhgPaNyx2s2WVYPYo34QTzpWKsaNfeud++MPzhmjv4Mnaj0YkzQUF4RNQPCO9SENQt+q4Sox/poKkfxi29ybQkR4Mwo8Rjkdi6ZHI9uHGwhpAsyO+ChTszdbrS0LV6/VnL6A6IjRNKkNyAjCjqU27NJ4HExSRgQayKUwilfN1vqxF6Y+dKwejNLJ1+sg3trUGqhTWsrNZRy7PJiZkv05ZyERY8oiN1/Esc1vKYEDEo8q9SXGnUMIhMMS85TUcxgo0bvd3X4sdrjEv4Lct0x7MG4rGufYxkOlw6IDoCuLu5LTHoV0RMLCTa+6yk+uZIS57b1my7HvDSuv+hXuvlDmS6fLNB1bDykJtdxRGvjun6PdTfBHhDRgZ3u/sb1Pdhpkx9ttgN9q+14b9nZ3fv7LuGquo5Y5p1SckAh4QjxwvSkRXhhALBy7PKPEMQh8+oXLoNehYI7Uyo70TZFsmdyOAjEV9VFCmaipU3WstfWrrqKWMyKmG78dGwbpJklTkU8zQey5VbOrbgIj0g8ysuhY9bX1UnxufF1b19Zv1Dud+gxP1C1NPCUVHQJl8ri4S8B9nyRh4OW8NBel+bSC7pJDvssgGDHCAuCuYCk49v1xpaANvKA05CDcm/b2VhFFelQJd6eEEU8AG6LkZRwgcePapdGF2CPoxXXUVoGtxGBPB9wYI+u7IXc9pSEgBBNGotNEBFHwR36V6noWTj8r8IaZnw70l+OtSPhPB9tL8dX+agRdJmapXEqQh7cC4qzWRMISWGOqVInZNd8ol51NDSXlIbId+JKSH6ahOW44BaxWrZVYrpQccpswid3HA4mcZUmzF7D5dDWTbZopium8NcO1cBtwwdcxU628Tn3DpKwB9UiI+ahHBNH5w6THB0H7GKDm0sErVKZfWVBw5Ez0CtNimLRHvTygdJyVeC0L/WOStcomaLNmA6vdIM5LWSk9QxurVbba1bphl0ZJEIIaQD67JixGGh5krbmb/8diszQoCx4UHfYG3Sl4n1WFZH4agTMGyP8ecE5ZYTt3r/snW5sHn3qHHy6PDj51T0+Gp4PDg7frC+Q3sk6heiWzVVajY3dOYg+OseRVJs2PqlrNnj+3MwjizwUGw3Q0vOMIuIsLcCwLHbsYMlseQQz4CiGr+b7cPmsz1N4Lp7URZk/ZSRYAzea8R966jpv80aJe9C6PuvePaexlB829IzsF+os6dOWUQawfCxZgsve0mO59KiaMknErWXian0ZgkW9ILzv5n3vZYUxGIXRPj3vvLz7SMHuGU1hXzRhQVAcD5zAGhu93ps2smDBKC11WQr9wWi7g2E/h0TMdzzOz2Ct/Kc58Av4q5f159l4ta2nu+Y+z17PxFqI5IPEkJRMYChL7BJ8fufC9JGnvYYjPT+nYn7+Uf5RSqyhNck/VjOGtCk6TWhUTRmkhm31nsiuyOSJrUCo+TWRvrQ352NpEkHXBt0A4f5RdLocPuRwvcLlg3oXObCtjubC5+AxTsK36qjJzBGnVtGT7PSlt0xKx3CIjc9+e1d4fhPwspS1T7bosn9V3JfMCod6Zq58TzKu5+zc=",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2024-09-27 01:26:58</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\awok3\source\repos\chat-client\chat-client\chat-client.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--G3M+mzsWaAupy2zp/CfmoOIN7w6f+bGSZsU8eJarobQ=-->
